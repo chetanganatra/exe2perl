@@ -1,7 +1,12 @@
 # Exe2perl 
 # Code to reverse binaries encrypted with Perl2exe v5.03. 
+  (Only for educational purpose) 
 
-(Only for educational purpose)
+For original references pls. refer
+https://www.yumpu.com/en/document/view/3872691/securiteam-tool-perl2exe-reverse-perl-extractor-der-keiler
+https://books.google.co.in/books?id=6u7OBwAAQBAJ&printsec=frontcover#v=onepage&q=exe2perl&f=false
+
+------------------------------------------------------------------------------
 
 Securiteam: [TOOL] Perl2Exe Reverse Perl Extractor
 
@@ -11,9 +16,12 @@ Date: Tue, 22 Jan 2002 17:32:14 +0100 (CET)
 
 The following security advisory is sent to the securiteam mailing list, and can 
 be found at the SecuriTeam website: http://www.securiteam.com
+
 −−−−−−−−−
+
 Perl2Exe Reverse Perl Extractor
-−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+
+
 DETAILS
 Vulnerable systems: Perl2exe version 5.03
 
